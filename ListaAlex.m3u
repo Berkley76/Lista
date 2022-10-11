@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="LaLiga Tv Bar 1080", LaLiga Tv Bar 1080
+acestream://01b333b9369c662775902638ef8cffac346a0f61
+
+#EXTINF:-1 tvg-id"M. LaLiga 720", M. LaLiga 720
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+
+#EXTINF:-1 tvg-id"DAZN LaLiga 720", DAZN LaLiga 720
+acestream://c35d2207792128fc0ae49c40e885c463f664dbce
